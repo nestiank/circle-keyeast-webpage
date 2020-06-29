@@ -39,13 +39,13 @@ a:hover {
 
 #header {
 	position: relative;
-	background: url(../images/bg_menu.png) repeat-x left top;
+	background: url(images/bg_menu.png) repeat-x left top;
 	height: 56px;
 	position: relative;
 }
 
 #header h1 {
-	background: url(../images/bg_logo.png) no-repeat left top;
+	background: url(images/bg_logo.png) no-repeat left top;
 	height: 52px;
 	text-indent: -500em;
 }
