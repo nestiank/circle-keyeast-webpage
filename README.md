@@ -1,10 +1,10 @@
 # 전산동아리 Key.East 홈페이지
 
-![Markup][markup-html]
+![markup-html][markup-html]
 <br>
-![Participants][participants-solo]
+![participants-solo][participants-solo]
 <br>
-![Group Project][keyeast-image]
+![group-keyeast][keyeast-image]
 
 > 창원과학고등학교 전산동아리 Key.East에서 2016년에 사용하던 홈페이지입니다.
 
