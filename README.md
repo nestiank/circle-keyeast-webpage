@@ -1,4 +1,4 @@
-# 창원과학고등학교 전산동아리 Key.East 홈페이지
+# 전산동아리 Key.East 홈페이지
 
 ![Markup][markup-html]
 <br>
