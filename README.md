@@ -7,7 +7,7 @@
 <br>
 ![group-keyeast][keyeast-image]
 <br>
-![copyright-sparcs][sparcs-image]
+[![copyright-sparcs][sparcs-image]][sparcs-url]
 
 > 창원과학고등학교 전산동아리 Key.East에서 2016년에 사용한 홈페이지입니다.
 
@@ -28,7 +28,7 @@
 
 ### 라이선스 및 공동체 수정
 
-현재 소스에 [KAIST](http://kaist.ac.kr) [SPARCS](https://sparcs.org) 예전 홈페이지의 소스가 포함되어 있습니다.
+현재 소스에 [KAIST][kaist-url] [SPARCS][sparcs-url]의 예전 홈페이지의 소스가 포함되어 있습니다.
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
@@ -42,3 +42,5 @@
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
 [language-php]: https://img.shields.io/badge/Language-PHP-orange
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
+[kaist-url]: http://kaist.ac.kr
+[sparcs-url]: https://sparcs.org
