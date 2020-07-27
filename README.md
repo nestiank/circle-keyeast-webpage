@@ -13,7 +13,7 @@
 
 <img src="documents/screenshot.png" height="400px">
 
-### 작업 기간
+### 개발 기간
 
 2016년 상반기 중 2주
 
