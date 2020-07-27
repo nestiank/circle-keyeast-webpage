@@ -1,6 +1,7 @@
 # 전산동아리 Key.East 홈페이지
 
 ![markup-html][markup-html]
+![language-php][language-php]
 <br>
 ![participants-solo][participants-solo]
 <br>
@@ -12,9 +13,16 @@
 
 <img src="documents/screenshot.png" height="400px">
 
-### 개발 기간
+### 작업 기간
 
 2016년 상반기 중 2주
+
+### 구현 사항
+
+현재 로그인 관련 소스가 유실되어 소스를 찾아보는 중입니다.
+
+  * 탭을 갖춘 간단한 동아리 홈페이지 제작
+  * `유실` 로그인 기능을 PHP 세션 핸들러로 구현
 
 ### 라이선스 및 공동체 수정
 
@@ -27,4 +35,5 @@
 <!-- Image definitions -->
 [keyeast-image]: https://img.shields.io/badge/Group-Key.East-red
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
+[language-php]: https://img.shields.io/badge/Language-PHP-orange
 [participants-solo]: https://img.shields.io/badge/Participants-Solo%20Project-7aa3cc
