@@ -5,8 +5,6 @@
 <br>
 ![participants-solo][participants-solo]
 <br>
-![group-keyeast][keyeast-image]
-<br>
 [![copyright-sparcs][sparcs-image]][sparcs-url]
 
 > 창원과학고등학교 전산동아리 Key.East에서 2016년에 사용한 홈페이지입니다.
@@ -37,7 +35,6 @@
     * 깃허브 Pull Request를 받지 않습니다.
 
 <!-- Image definitions -->
-[keyeast-image]: https://img.shields.io/badge/Group-Key.East-red
 [sparcs-image]: https://img.shields.io/badge/Copyright-SPARCS-eba02a
 [markup-html]: https://img.shields.io/badge/Markup-HTML-orange
 [language-php]: https://img.shields.io/badge/Language-PHP-orange
